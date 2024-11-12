@@ -13,8 +13,9 @@ This repository contains my personal solutions to various coding problems from *
 
 ## Languages Used
 
-- **Python**: The primary language used for coding solutions.
-- **JavaScript**: Solutions for some problems are also provided in JavaScript.
+- **Python**
+- **JavaScript**
+- **C++**
 
 
 
